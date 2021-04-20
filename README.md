@@ -1,3 +1,8 @@
+#Project based on
+
+https://github.com/samgamage/todo-react/blob/master/src/App.js
+https://www.youtube.com/watch?v=nUl5QLkVdvU&t=448s
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
